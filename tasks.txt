@@ -1,0 +1,11 @@
+Tasks:
+-character method
+-textures 
+-background
+-power ups
+	-1up: health
+	-star: shield
+	-golden mushroom: limited speed boost
+	- bulletbill: 100m dash
+-point system
+	
