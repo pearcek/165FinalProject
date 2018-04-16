@@ -8,4 +8,13 @@ Tasks:
 	-golden mushroom: limited speed boost
 	- bulletbill: 100m dash
 -point system
+
+
+Resources: https://drive.google.com/open?id=1kecYH2V6qCC2-ETNYS7Q7ormMofb4uNy
+
+	   Making of Jetpack Joyride: https://www.gdcvault.com/play/1015527/Depth-in-Simplicity-The-Making
+	   
+	   Sprite Database: https://www.spriters-resource.com/
+	   
+	   
 	
